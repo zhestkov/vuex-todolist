@@ -1,18 +1,16 @@
-# vuex-test
+# Todo list
 
-> A Vue.js project
+> A simple Todo list application using Vue.js and Vuex for state management.
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:8080
-npm run dev
+yarn start
 
 # build for production with minification
-npm run build
+yarn build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
